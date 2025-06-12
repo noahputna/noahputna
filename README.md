@@ -1,6 +1,7 @@
 ## Hi, I'm Noah! 👋
 
 I'm a graduate of the University of Melbourne, where i studied **Commerce (Finance & Economics)** and **Computer Science**.</br>
+
 My background combines technical programming skills with an understanding of financial markets and product design.</br>
 
 ## 💻 Tech Stack:
