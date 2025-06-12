@@ -1,7 +1,9 @@
 ## Hi, I'm Noah! 👋
 
 I'm a graduate of the University of Melbourne, where i studied **Commerce (Finance & Economics)** and **Computer Science**.</br>
+
 My work focuses on applying computational techniques to solve technical and analytical problems - particularly in areas involving **software systems**, **data engineering**, and **financial modelling**. I'm comfortable working across the stack, with experience building tools for automation, data processing, and performance optimisation.</br>
+
 I'm especially interested in domains where software intersects with economic systems, distributed infrastructure, and algorithmic logic.</br>
 
 
