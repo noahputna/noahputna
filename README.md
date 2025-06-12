@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi, I'm Noah!
+
+🧑🏼‍🎓Studied [Commerce] and [Computer Science] at the University of Melbourne<br/>
 
 <!--
 **noahputna/noahputna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
