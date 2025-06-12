@@ -1,4 +1,4 @@
-## Hi, I'm Noah! 👋
+## Hi, I'm Noah Putna! 👋
 
 I'm a graduate of the University of Melbourne, where i studied **Commerce (Finance & Economics)** and **Computer Science**.</br>
 
